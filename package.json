@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/survirtual/vue-adal#readme",
   "dependencies": {
-    "adal-angular": "^1.0.17",
+    "adal-angular": "https://github.com/ikrcatov/azure-activedirectory-library-for-js/tarball/master",
     "async": "^3.1.0"
   },
   "devDependencies": {
